@@ -10,4 +10,4 @@ the size of companies, relationships between variables and what the job descript
 The database has been pulled from the kaggle website(kaggle.com) and the project was developed using jupyter notebook.
 
 Please feel free to contact me with suggestions, I am always oppened for it! 
-Marina.
+
