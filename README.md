@@ -2,7 +2,8 @@
 
 
 Hello everybody.
-What does a data-driven woman do when she wants to formally work with data? That's right she uses...data!! :D 
+
+What does a data-driven woman do when she wants to formally work with data but you still don't know anything about the jobs offered in this area?? That's right she uses...data!! :D 
 
 This is my first project using the python language to parse some data from a tabular dataset and for that, I wanted to explore
 some analytics tools and answer some questions of my interest about Sectors that hire data analysts, 
